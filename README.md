@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arpan13
-- 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web and mobile development,Salesforce
+- 🌱 I’m currently learning Salesforce Development
 - 📫 How to reach me ...
 
 <!---
